@@ -11,7 +11,7 @@ import requests
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 logger = logging.getLogger(__name__)
 #My bot token from BotFather
-token = '1370287243:AAFV9z7xH-uI-ibVml-VIdnBH8BM-IHyMr0'
+token = '#Your Token'
 
 # define command handlers
 
